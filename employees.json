@@ -1,0 +1,9 @@
+[
+  {"name": "Алиса",   "department": "Разработка", "salary": 90000},
+  {"name": "Борис",   "department": "Разработка", "salary": 85000},
+  {"name": "Виктор",  "department": "Маркетинг",  "salary": 70000},
+  {"name": "Галина",  "department": "Маркетинг",  "salary": 65000},
+  {"name": "Дмитрий", "department": "HR",          "salary": 55000},
+  {"name": "Елена",   "department": "Разработка", "salary": 95000},
+  {"name": "Жанна",   "department": "HR",          "salary": 50000}
+]
